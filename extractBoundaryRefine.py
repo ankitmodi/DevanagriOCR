@@ -38,6 +38,7 @@ def refineChar(img, thresh, List_Char_Details_Unrefined):
 		ECx = char['ECx']
 		ECy = char['ECy']
 
+		#cleaning row
 		while(rowSum(thresh, BCy, BCx, ECx) == 0):
 			BCy += 1
 		char['BCy'] = BCy
@@ -45,6 +46,19 @@ def refineChar(img, thresh, List_Char_Details_Unrefined):
 		while(rowSum(thresh, ECy, BCx, ECx) == 0):
 			ECy -= 1
 		char['ECy'] = ECy
+
+		'''
+		#cleaning column
+		#is not necessary as characters are split according to the first column that has a black pixel
+		while(colSum(thresh, BCx, BCy, ECy) == 0):
+			BCx += 1
+		char['BCx'] = BCx
+
+		while(colSum(thresh, ECx, BCy, ECy) == 0):
+			ECx -= 1
+		char['ECx'] = ECx
+		'''
+
 
 	return List_Char_Details_Unrefined
 
@@ -57,3 +71,12 @@ def rowSum(thresh, y, BWx, EWx):
 		if(pixel==255):
 			rowSum += 1
 	return rowSum
+
+
+def colSum(thresh, x, BWy, EWy):
+	colSum = 0
+	for y in range(BWy, EWy+1):
+		pixel = thresh[y,x]
+		if(pixel==255):
+			colSum += 1
+	return colSum

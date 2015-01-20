@@ -9,7 +9,7 @@ import extractWords
 import extractChars
 #import histogram
 import extractBoundaryRefine
-#import charDimension
+import charDimension
 import wordSplitTMB   # TMB: Top, Mid, Bottom
 import wordVertHist
 
@@ -252,7 +252,10 @@ for i in (1,10):
 '''
 
 
+
 List_Char_Details_Refined = extractBoundaryRefine.refineChar(img, thresh_No_DE, List_Char_Details_Unrefined)
+
+
 
 '''
 fileCharBoundary = open('CharBoundary.txt','w')
@@ -280,7 +283,7 @@ cv2.destroyAllWindows()
 
 
 
-
+List_Char_Details_WH, mean_width, mean_height = charDimension.calculateCharDimension(List_Char_Details_Refined)
 #List_Char_Details_WH, mean_width, mean_height = charDimension.calculateCharDimension(List_Char_Details_Unrefined)
 #with WH (width and height)
 #BCx: Begin Char X-coordinate, BCy: Begin Char Y-coordinate, ECx : End Char X-coordinate, 

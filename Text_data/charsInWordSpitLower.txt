@@ -1,0 +1,1830 @@
+
+
+Line no.: 0,  Word no. 0......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 0,  Word no. 1......... charCount: 2
+
+Char: 0, length: 24
+Char: 1, length: 21
+meanCharLength: 22
+maxCharLength: 24
+
+Line no.: 0,  Word no. 2......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 21
+Char: 2, length: 20
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 0,  Word no. 3......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 0,  Word no. 4......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 24
+meanCharLength: 22
+maxCharLength: 24
+
+Line no.: 0,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 0,  Word no. 6......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 0,  Word no. 7......... charCount: 5
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 22
+Char: 3, length: 21
+Char: 4, length: 20
+meanCharLength: 20
+maxCharLength: 22
+
+Line no.: 0,  Word no. 8......... charCount: 1
+
+Char: 0, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 0,  Word no. 9......... charCount: 2
+
+Char: 0, length: 23
+Char: 1, length: 20
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 0,  Word no. 10......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 0,  Word no. 11......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 0,  Word no. 12......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 1,  Word no. 0......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 1,  Word no. 1......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 1,  Word no. 2......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 22
+meanCharLength: 21
+maxCharLength: 22
+
+Line no.: 1,  Word no. 3......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 23
+Char: 2, length: 20
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 1,  Word no. 4......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 1,  Word no. 5......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 23
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 1,  Word no. 6......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 23
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 1,  Word no. 7......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 1,  Word no. 8......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 1,  Word no. 9......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 1,  Word no. 10......... charCount: 0
+
+
+Line no.: 1,  Word no. 11......... charCount: 6
+
+Char: 0, length: 20
+Char: 1, length: 22
+Char: 2, length: 21
+Char: 3, length: 15
+Char: 4, length: 20
+Char: 5, length: 21
+meanCharLength: 19
+maxCharLength: 22
+
+Line no.: 1,  Word no. 12......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 2,  Word no. 0......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 28
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 22
+maxCharLength: 28
+
+Line no.: 2,  Word no. 1......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 20
+Char: 2, length: 23
+Char: 3, length: 22
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 2,  Word no. 2......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 2,  Word no. 3......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 2,  Word no. 4......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 23
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 2,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 25
+meanCharLength: 23
+maxCharLength: 25
+
+Line no.: 2,  Word no. 6......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 2,  Word no. 7......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 2,  Word no. 8......... charCount: 1
+
+Char: 0, length: 26
+meanCharLength: 26
+maxCharLength: 26
+
+Line no.: 2,  Word no. 9......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 23
+Char: 2, length: 20
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 2,  Word no. 10......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 2,  Word no. 11......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 3,  Word no. 0......... charCount: 1
+
+Char: 0, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 3,  Word no. 1......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 3,  Word no. 2......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 3,  Word no. 3......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 3,  Word no. 4......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 3,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 3,  Word no. 6......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 3,  Word no. 7......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 3,  Word no. 8......... charCount: 5
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 24
+Char: 3, length: 21
+Char: 4, length: 21
+meanCharLength: 21
+maxCharLength: 24
+
+Line no.: 3,  Word no. 9......... charCount: 1
+
+Char: 0, length: 22
+meanCharLength: 22
+maxCharLength: 22
+
+Line no.: 3,  Word no. 10......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 3,  Word no. 11......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 3,  Word no. 12......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 23
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 3,  Word no. 13......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 3,  Word no. 14......... charCount: 0
+
+
+Line no.: 4,  Word no. 0......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 4,  Word no. 1......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 23
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 4,  Word no. 2......... charCount: 1
+
+Char: 0, length: 25
+meanCharLength: 25
+maxCharLength: 25
+
+Line no.: 4,  Word no. 3......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 4,  Word no. 4......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 4,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 22
+meanCharLength: 21
+maxCharLength: 22
+
+Line no.: 4,  Word no. 6......... charCount: 3
+
+Char: 0, length: 22
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 22
+
+Line no.: 4,  Word no. 7......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 4,  Word no. 8......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 4,  Word no. 9......... charCount: 2
+
+Char: 0, length: 19
+Char: 1, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 4,  Word no. 10......... charCount: 6
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 20
+Char: 3, length: 21
+Char: 4, length: 29
+Char: 5, length: 21
+meanCharLength: 21
+maxCharLength: 29
+
+Line no.: 4,  Word no. 11......... charCount: 3
+
+Char: 0, length: 29
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 23
+maxCharLength: 29
+
+Line no.: 5,  Word no. 0......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 5,  Word no. 1......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 25
+meanCharLength: 23
+maxCharLength: 25
+
+Line no.: 5,  Word no. 2......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 23
+Char: 3, length: 21
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 5,  Word no. 3......... charCount: 5
+
+Char: 0, length: 21
+Char: 1, length: 23
+Char: 2, length: 22
+Char: 3, length: 21
+Char: 4, length: 21
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 5,  Word no. 4......... charCount: 5
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 20
+Char: 3, length: 14
+Char: 4, length: 20
+meanCharLength: 18
+maxCharLength: 20
+
+Line no.: 5,  Word no. 5......... charCount: 0
+
+
+Line no.: 5,  Word no. 6......... charCount: 4
+
+Char: 0, length: 29
+Char: 1, length: 21
+Char: 2, length: 20
+Char: 3, length: 20
+meanCharLength: 22
+maxCharLength: 29
+
+Line no.: 5,  Word no. 7......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 15
+Char: 2, length: 21
+meanCharLength: 19
+maxCharLength: 21
+
+Line no.: 5,  Word no. 8......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 5,  Word no. 9......... charCount: 2
+
+Char: 0, length: 25
+Char: 1, length: 21
+meanCharLength: 23
+maxCharLength: 25
+
+Line no.: 5,  Word no. 10......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 5,  Word no. 11......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 6,  Word no. 0......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 6,  Word no. 1......... charCount: 1
+
+Char: 0, length: 22
+meanCharLength: 22
+maxCharLength: 22
+
+Line no.: 6,  Word no. 2......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 6,  Word no. 3......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 6,  Word no. 4......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 6,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 6,  Word no. 6......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 6,  Word no. 7......... charCount: 5
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 20
+Char: 3, length: 20
+Char: 4, length: 20
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 6,  Word no. 8......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 6,  Word no. 9......... charCount: 4
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 6,  Word no. 10......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 6,  Word no. 11......... charCount: 5
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 21
+Char: 4, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 7,  Word no. 0......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 7,  Word no. 1......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 7,  Word no. 2......... charCount: 2
+
+Char: 0, length: 23
+Char: 1, length: 21
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 7,  Word no. 3......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 7,  Word no. 4......... charCount: 2
+
+Char: 0, length: 28
+Char: 1, length: 20
+meanCharLength: 24
+maxCharLength: 28
+
+Line no.: 7,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 7,  Word no. 6......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 7,  Word no. 7......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 20
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 7,  Word no. 8......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 7,  Word no. 9......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 25
+meanCharLength: 23
+maxCharLength: 25
+
+Line no.: 7,  Word no. 10......... charCount: 0
+
+
+Line no.: 7,  Word no. 11......... charCount: 0
+
+
+Line no.: 7,  Word no. 12......... charCount: 0
+
+
+Line no.: 7,  Word no. 13......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 23
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 8,  Word no. 0......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 8,  Word no. 1......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 8,  Word no. 2......... charCount: 0
+
+
+Line no.: 8,  Word no. 3......... charCount: 0
+
+
+Line no.: 8,  Word no. 4......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 8,  Word no. 5......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 8,  Word no. 6......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 20
+Char: 2, length: 20
+Char: 3, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 8,  Word no. 7......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 8,  Word no. 8......... charCount: 0
+
+
+Line no.: 8,  Word no. 9......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 23
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 8,  Word no. 10......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 21
+Char: 2, length: 23
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 8,  Word no. 11......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 8,  Word no. 12......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 22
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 21
+maxCharLength: 22
+
+Line no.: 8,  Word no. 13......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 8,  Word no. 14......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 8,  Word no. 15......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 22
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 21
+maxCharLength: 22
+
+Line no.: 9,  Word no. 0......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 9,  Word no. 1......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 9,  Word no. 2......... charCount: 4
+
+Char: 0, length: 23
+Char: 1, length: 21
+Char: 2, length: 22
+Char: 3, length: 21
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 9,  Word no. 3......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 22
+meanCharLength: 21
+maxCharLength: 22
+
+Line no.: 9,  Word no. 4......... charCount: 5
+
+Char: 0, length: 28
+Char: 1, length: 20
+Char: 2, length: 20
+Char: 3, length: 21
+Char: 4, length: 21
+meanCharLength: 22
+maxCharLength: 28
+
+Line no.: 9,  Word no. 5......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 9,  Word no. 6......... charCount: 4
+
+Char: 0, length: 20
+Char: 1, length: 21
+Char: 2, length: 23
+Char: 3, length: 25
+meanCharLength: 22
+maxCharLength: 25
+
+Line no.: 9,  Word no. 7......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 9,  Word no. 8......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 9,  Word no. 9......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 9,  Word no. 10......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 9,  Word no. 11......... charCount: 0
+
+
+Line no.: 10,  Word no. 0......... charCount: 6
+
+Char: 0, length: 18
+Char: 1, length: 21
+Char: 2, length: 23
+Char: 3, length: 21
+Char: 4, length: 21
+Char: 5, length: 21
+meanCharLength: 20
+maxCharLength: 23
+
+Line no.: 10,  Word no. 1......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 10,  Word no. 2......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 10,  Word no. 3......... charCount: 1
+
+Char: 0, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 10,  Word no. 4......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 10,  Word no. 5......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 10,  Word no. 6......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 10,  Word no. 7......... charCount: 1
+
+Char: 0, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 10,  Word no. 8......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 20
+Char: 2, length: 19
+Char: 3, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 10,  Word no. 9......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 10,  Word no. 10......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 23
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 10,  Word no. 11......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 22
+meanCharLength: 21
+maxCharLength: 22
+
+Line no.: 11,  Word no. 0......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 29
+Char: 2, length: 22
+meanCharLength: 24
+maxCharLength: 29
+
+Line no.: 11,  Word no. 1......... charCount: 1
+
+Char: 0, length: 24
+meanCharLength: 24
+maxCharLength: 24
+
+Line no.: 11,  Word no. 2......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 21
+Char: 2, length: 20
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 11,  Word no. 3......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 23
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 11,  Word no. 4......... charCount: 0
+
+
+Line no.: 11,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 23
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 11,  Word no. 6......... charCount: 2
+
+Char: 0, length: 25
+Char: 1, length: 21
+meanCharLength: 23
+maxCharLength: 25
+
+Line no.: 11,  Word no. 7......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 11,  Word no. 8......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 11,  Word no. 9......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 29
+Char: 2, length: 22
+meanCharLength: 24
+maxCharLength: 29
+
+Line no.: 11,  Word no. 10......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 23
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 11,  Word no. 11......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 11,  Word no. 12......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 11,  Word no. 13......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 23
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 12,  Word no. 0......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 12,  Word no. 1......... charCount: 3
+
+Char: 0, length: 19
+Char: 1, length: 20
+Char: 2, length: 20
+meanCharLength: 19
+maxCharLength: 20
+
+Line no.: 12,  Word no. 2......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 20
+Char: 2, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 12,  Word no. 3......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 12,  Word no. 4......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 12,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 12,  Word no. 6......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 24
+Char: 2, length: 21
+meanCharLength: 22
+maxCharLength: 24
+
+Line no.: 12,  Word no. 7......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 12,  Word no. 8......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 23
+Char: 3, length: 24
+meanCharLength: 22
+maxCharLength: 24
+
+Line no.: 12,  Word no. 9......... charCount: 0
+
+
+Line no.: 12,  Word no. 10......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 12,  Word no. 11......... charCount: 2
+
+Char: 0, length: 23
+Char: 1, length: 21
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 13,  Word no. 0......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 13,  Word no. 1......... charCount: 2
+
+Char: 0, length: 24
+Char: 1, length: 20
+meanCharLength: 22
+maxCharLength: 24
+
+Line no.: 13,  Word no. 2......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 21
+Char: 2, length: 20
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 13,  Word no. 3......... charCount: 1
+
+Char: 0, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 13,  Word no. 4......... charCount: 6
+
+Char: 0, length: 23
+Char: 1, length: 23
+Char: 2, length: 21
+Char: 3, length: 21
+Char: 4, length: 21
+Char: 5, length: 21
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 13,  Word no. 5......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 13,  Word no. 6......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 13,  Word no. 7......... charCount: 1
+
+Char: 0, length: 24
+meanCharLength: 24
+maxCharLength: 24
+
+Line no.: 13,  Word no. 8......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 13,  Word no. 9......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 13,  Word no. 10......... charCount: 2
+
+Char: 0, length: 22
+Char: 1, length: 22
+meanCharLength: 22
+maxCharLength: 22
+
+Line no.: 13,  Word no. 11......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 13,  Word no. 12......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 14,  Word no. 0......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 14,  Word no. 1......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 29
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 23
+maxCharLength: 29
+
+Line no.: 14,  Word no. 2......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 14,  Word no. 3......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 29
+Char: 2, length: 21
+meanCharLength: 23
+maxCharLength: 29
+
+Line no.: 14,  Word no. 4......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 14,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 14,  Word no. 6......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 14,  Word no. 7......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 14,  Word no. 8......... charCount: 3
+
+Char: 0, length: 22
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 22
+
+Line no.: 14,  Word no. 9......... charCount: 5
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 30
+Char: 4, length: 21
+meanCharLength: 22
+maxCharLength: 30
+
+Line no.: 14,  Word no. 10......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 15,  Word no. 0......... charCount: 2
+
+Char: 0, length: 25
+Char: 1, length: 20
+meanCharLength: 22
+maxCharLength: 25
+
+Line no.: 15,  Word no. 1......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 15,  Word no. 2......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 15,  Word no. 3......... charCount: 6
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 21
+Char: 4, length: 21
+Char: 5, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 15,  Word no. 4......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 15,  Word no. 5......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 23
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 15,  Word no. 6......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 15,  Word no. 7......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 15,  Word no. 8......... charCount: 5
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 23
+Char: 4, length: 25
+meanCharLength: 22
+maxCharLength: 25
+
+Line no.: 15,  Word no. 9......... charCount: 0
+
+
+Line no.: 15,  Word no. 10......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 15,  Word no. 11......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 15,  Word no. 12......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 16,  Word no. 0......... charCount: 4
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 20
+Char: 3, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 16,  Word no. 1......... charCount: 1
+
+Char: 0, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 16,  Word no. 2......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 16,  Word no. 3......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 16,  Word no. 4......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 14
+meanCharLength: 19
+maxCharLength: 21
+
+Line no.: 16,  Word no. 5......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 16,  Word no. 6......... charCount: 2
+
+Char: 0, length: 16
+Char: 1, length: 21
+meanCharLength: 18
+maxCharLength: 21
+
+Line no.: 16,  Word no. 7......... charCount: 2
+
+Char: 0, length: 23
+Char: 1, length: 21
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 16,  Word no. 8......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 16,  Word no. 9......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 16,  Word no. 10......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 16,  Word no. 11......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 24
+meanCharLength: 22
+maxCharLength: 24
+
+Line no.: 16,  Word no. 12......... charCount: 1
+
+Char: 0, length: 24
+meanCharLength: 24
+maxCharLength: 24
+
+Line no.: 16,  Word no. 13......... charCount: 0
+
+
+Line no.: 16,  Word no. 14......... charCount: 3
+
+Char: 0, length: 19
+Char: 1, length: 20
+Char: 2, length: 20
+meanCharLength: 19
+maxCharLength: 20
+
+Line no.: 17,  Word no. 0......... charCount: 4
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 17,  Word no. 1......... charCount: 6
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 21
+Char: 4, length: 23
+Char: 5, length: 21
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 17,  Word no. 2......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 17,  Word no. 3......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 17,  Word no. 4......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 23
+Char: 2, length: 22
+meanCharLength: 22
+maxCharLength: 23
+
+Line no.: 17,  Word no. 5......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 17,  Word no. 6......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 20
+meanCharLength: 20
+maxCharLength: 20
+
+Line no.: 17,  Word no. 7......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 26
+Char: 2, length: 20
+Char: 3, length: 20
+meanCharLength: 21
+maxCharLength: 26
+
+Line no.: 17,  Word no. 8......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 23
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 17,  Word no. 9......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 17,  Word no. 10......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 20
+Char: 2, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 18,  Word no. 0......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 18,  Word no. 1......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 18,  Word no. 2......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 18,  Word no. 3......... charCount: 1
+
+Char: 0, length: 23
+meanCharLength: 23
+maxCharLength: 23
+
+Line no.: 18,  Word no. 4......... charCount: 2
+
+Char: 0, length: 26
+Char: 1, length: 21
+meanCharLength: 23
+maxCharLength: 26
+
+Line no.: 18,  Word no. 5......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 21
+Char: 2, length: 20
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 18,  Word no. 6......... charCount: 5
+
+Char: 0, length: 20
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 23
+Char: 4, length: 25
+meanCharLength: 22
+maxCharLength: 25
+
+Line no.: 18,  Word no. 7......... charCount: 0
+
+
+Line no.: 18,  Word no. 8......... charCount: 2
+
+Char: 0, length: 25
+Char: 1, length: 21
+meanCharLength: 23
+maxCharLength: 25
+
+Line no.: 18,  Word no. 9......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 29
+Char: 2, length: 22
+meanCharLength: 24
+maxCharLength: 29
+
+Line no.: 18,  Word no. 10......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 18,  Word no. 11......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 18,  Word no. 12......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 19,  Word no. 0......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 21
+Char: 2, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 19,  Word no. 1......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 19,  Word no. 2......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 19,  Word no. 3......... charCount: 2
+
+Char: 0, length: 20
+Char: 1, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 19,  Word no. 4......... charCount: 3
+
+Char: 0, length: 20
+Char: 1, length: 20
+Char: 2, length: 21
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 19,  Word no. 5......... charCount: 1
+
+Char: 0, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 19,  Word no. 6......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 20
+meanCharLength: 20
+maxCharLength: 21
+
+Line no.: 19,  Word no. 7......... charCount: 2
+
+Char: 0, length: 25
+Char: 1, length: 21
+meanCharLength: 23
+maxCharLength: 25
+
+Line no.: 19,  Word no. 8......... charCount: 4
+
+Char: 0, length: 23
+Char: 1, length: 20
+Char: 2, length: 21
+Char: 3, length: 21
+meanCharLength: 21
+maxCharLength: 23
+
+Line no.: 19,  Word no. 9......... charCount: 4
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 21
+Char: 3, length: 25
+meanCharLength: 22
+maxCharLength: 25
+
+Line no.: 19,  Word no. 10......... charCount: 2
+
+Char: 0, length: 21
+Char: 1, length: 21
+meanCharLength: 21
+maxCharLength: 21
+
+Line no.: 20,  Word no. 0......... charCount: 0
+
+
+Line no.: 21,  Word no. 0......... charCount: 3
+
+Char: 0, length: 21
+Char: 1, length: 21
+Char: 2, length: 14
+meanCharLength: 18
+maxCharLength: 21
+
+Line no.: 21,  Word no. 1......... charCount: 0

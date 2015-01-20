@@ -1,0 +1,45 @@
+
+
+Line no.: 2,  Word no. 0, headerwidth: 3.........
+
+GapStart: 139
+
+Line no.: 4,  Word no. 10, headerwidth: 3.........
+
+GapStart: 228
+
+Line no.: 4,  Word no. 11, headerwidth: 3.........
+
+GapStart: 228
+
+Line no.: 5,  Word no. 6, headerwidth: 3.........
+
+GapStart: 272
+
+Line no.: 9,  Word no. 4, headerwidth: 2.........
+
+GapStart: 448
+
+Line no.: 11,  Word no. 0, headerwidth: 3.........
+
+GapStart: 536
+
+Line no.: 11,  Word no. 9, headerwidth: 3.........
+
+GapStart: 537
+
+Line no.: 14,  Word no. 1, headerwidth: 3.........
+
+GapStart: 668
+
+Line no.: 14,  Word no. 3, headerwidth: 3.........
+
+GapStart: 668
+
+Line no.: 14,  Word no. 9, headerwidth: 3.........
+
+GapStart: 668
+
+Line no.: 18,  Word no. 9, headerwidth: 3.........
+
+GapStart: 846

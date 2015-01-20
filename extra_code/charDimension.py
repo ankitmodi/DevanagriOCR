@@ -3,7 +3,7 @@ import numpy as np
 
 def calculateCharDimension(List_Char_Details):
 
-	fileCharDim = open('CharDimension.txt','w')
+	fileCharDim = open('CharDimension_Refined.txt','w')
 	fileCharDim.write("\n\n********Character Width-Height Details*************************\n\n")
 	count = 0
 	for char in List_Char_Details:
