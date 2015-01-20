@@ -9,7 +9,7 @@ import extractWords
 import extractChars
 #import histogram
 import extractBoundaryRefine
-import charDimension
+#import charDimension
 import wordSplitTMB   # TMB: Top, Mid, Bottom
 import wordVertHist
 
@@ -254,6 +254,9 @@ for i in (1,10):
 
 
 List_Char_Details_Refined = extractBoundaryRefine.refineChar(img, thresh_No_DE, List_Char_Details_Unrefined)
+#BCx: Begin Char X-coordinate, BCy: Begin Char Y-coordinate, ECx : End Char X-coordinate, 
+#ECy : End Char Y-coordinate, lineNo: Line Number, wordNo: Word Number, 
+#region: Top-Mid-Bot 1-2-3, charNo: Char Number, hw: header width(0 for Top-Bot)
 
 
 
@@ -279,11 +282,11 @@ cv2.destroyAllWindows()
 
 
 
-#******************************Character Width-Height  Calculation *************************************
+#******************************Character Width-Height Calculation*************************************
 
 
 
-List_Char_Details_WH, mean_width, mean_height = charDimension.calculateCharDimension(List_Char_Details_Refined)
+#List_Char_Details_WH, mean_width, mean_height = charDimension.calculateCharDimension(List_Char_Details_Refined)
 #List_Char_Details_WH, mean_width, mean_height = charDimension.calculateCharDimension(List_Char_Details_Unrefined)
 #with WH (width and height)
 #BCx: Begin Char X-coordinate, BCy: Begin Char Y-coordinate, ECx : End Char X-coordinate, 
@@ -293,6 +296,26 @@ List_Char_Details_WH, mean_width, mean_height = charDimension.calculateCharDimen
 #print List_Char_Details_WH[0]
 
 
+
+#*********************************Header Line removal****************************************
+
+for char in List_Char_Details_Refined:
+	if(char['region']==2):
+		char['BCy'] += char['hw']
+
+
+
+#**********************************************Save each character***************************************************
+import os.path
+directory = 'characters'	
+for char in List_Char_Details_Refined:
+	#char = List_Char_Details_Refined[i]
+	crop_img = img[char['BCy']:char['ECy'], char['BCx']:char['ECx']]
+	name = 'line' + str(char['lineNo']) + '_word' + str(char['wordNo']) + '_reg' + str(char['region']) + '_char' + str(char['charNo']) + '.jpg'
+
+	cv2.imwrite(os.path.join(directory,name),crop_img)
+
+	
 
 #********************************************Filter based on character width*****************************************
 

@@ -67,7 +67,7 @@ def ExtractChars(img, thresh_No_DE, List_Word_Split_Region):
 				BCy = BWy
 				ECx = BWx + list_char[-1]
 				ECy = EWy
-
+				
 				Dict = {'BCx': BCx, 'BCy': BCy, 'ECx': ECx, 'ECy': ECy, 'lineNo': word['lineNo'], 
 						'wordNo': word['wordNo'], 'region': word['region'], 'charNo': charCount, 
 						'hw': header_width}
