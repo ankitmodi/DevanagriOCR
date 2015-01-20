@@ -70,10 +70,10 @@ for line in List_Line_Details:
 #cv2.imshow('Draw thresh',thresh_color)
 #cv2.imwrite('zz_lines_thresh_color.jpg',thresh_color)
 cv2.imshow('Lines',img)
-cv2.imwrite('zz1_lines_img.jpg',img)
+cv2.imwrite('zz_lines_img.jpg',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-'''
+#'''
 
 
 #******************************Word Segmentation***********************************************************************
@@ -97,7 +97,7 @@ for word in List_Word_Details_Unrefined:
 
 # Finally show the image
 cv2.imshow('img',img)
-cv2.imwrite('zz2_words_img.jpg',img)
+cv2.imwrite('zz_words_img.jpg',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 '''
@@ -119,14 +119,14 @@ fileWordBoundary.close()
 
 # Finally show the image
 cv2.imshow('img',img)
-cv2.imwrite('zz3_words_refine_img.jpg',img)
+cv2.imwrite('zz_words_refine_img.jpg',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 '''
 
 
 
-#*****************************Split Word in three parts: Top, Mid and Bottom **************************
+#*****************************SPlit Word in three parts: Top, Mid and Bottom **************************
 List_Word_Split_Details_Upper = wordSplitTMB.SplitWordUpper(img, thresh_No_DE, List_Word_Details, header_Line_Percent)
 
 '''
@@ -141,7 +141,7 @@ for word in List_Word_Split_Details_Upper:
 	
 # Finally show the image
 cv2.imshow('img',img)
-cv2.imwrite('zz4_word_split_img.jpg',img)
+cv2.imwrite('zz1_word_split_img.jpg',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 '''
@@ -182,7 +182,7 @@ for word in List_Word_Split_Details_Lower:
 	
 # Finally show the image
 cv2.imshow('img',img)
-cv2.imwrite('zz5_word_splitLower_img.jpg',img)
+cv2.imwrite('zz1_word_splitLower_img.jpg',img)
 #cv2.imwrite('testResult.jpg',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
@@ -212,7 +212,7 @@ for word in List_Word_Split_Region:
 	
 # Finally show the image
 cv2.imshow('img',img)
-cv2.imwrite('zz6_word_split_region_img.jpg',img)
+cv2.imwrite('zz1_word_split_region_img.jpg',img)
 #cv2.imwrite('testResult.jpg',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
@@ -220,9 +220,10 @@ cv2.destroyAllWindows()
 
 
 
-#************************************Character Segmentation********************************************************************
+#******************************Character Segmentation Early Version********************************************************************
 
 List_Char_Details_Unrefined = extractChars.ExtractChars(img, thresh_No_DE, List_Word_Split_Region)
+#List_Char_Details_Unrefined = extractChars.ExtractChars(img, thresh_No_DE, List_Word_Details, pixel_Limit_Char_Extraction, header_Line_Percent)
 
 
 '''
@@ -241,18 +242,15 @@ for char in List_Char_Details_Unrefined:
 	
 # Finally show the image
 cv2.imshow('img',img)
-cv2.imwrite('zz7_chars_img.jpg',img)
+cv2.imwrite('zz1_chars_img.jpg',img)
 #cv2.imwrite('chandra_chars_img.jpg',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 '''
-'''
-for i in (1,10):
-	char = List_Char_Details_Unrefined[i]
-'''
 
 
-List_Char_Details_Refined = extractBoundaryRefine.refineChar(img, thresh_No_DE, List_Char_Details_Unrefined)
+
+#List_Char_Details = extractBoundaryRefine.refineChar(img, thresh_No_DE, List_Char_Details_Unrefined)
 
 '''
 fileCharBoundary = open('CharBoundary.txt','w')
