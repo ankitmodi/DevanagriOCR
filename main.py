@@ -13,6 +13,9 @@ import extractBoundaryRefine
 import wordSplitTMB   # TMB: Top, Mid, Bottom
 import wordVertHist
 
+
+import postprocess
+
 pixel_Limit_Line_Extraction = 0
 pixel_Limit_Word_Extraction = 0
 pixel_Limit_Char_Extraction = 4
@@ -225,8 +228,22 @@ cv2.destroyAllWindows()
 List_Char_Details_Unrefined = extractChars.ExtractChars(img, thresh_No_DE, List_Word_Split_Region)
 
 
-'''
-for char in List_Char_Details_Unrefined:
+
+
+
+List_Char_Details_Refined = extractBoundaryRefine.refineChar(img, thresh_No_DE, List_Char_Details_Unrefined)
+#BCx: Begin Char X-coordinate, BCy: Begin Char Y-coordinate, ECx : End Char X-coordinate, 
+#ECy : End Char Y-coordinate, lineNo: Line Number, wordNo: Word Number, 
+#region: Top-Mid-Bot 1-2-3, charNo: Char Number, hw: header width(0 for Top-Bot)
+
+
+#**************************************Remove Empty Chars*******************************************
+
+
+List_Char_Details_Final = postprocess.removeEmptyChars(img, List_Char_Details_Refined)
+
+#'''
+for char in List_Char_Details_Final:
 	#Dict = {'BCx': BCx, 'BCy': BCy, 'ECx': ECx, 'ECy': ECy, 'lineNo': word['lineNo'], 'wordNo': word['wordNo'], 'region': word['region'], 'charNo': charCount, 'hw': header_width}
 	#BCx: Begin Char X-coordinate, BCy: Begin Char Y-coordinate, ECx : End Char X-coordinate, 
 	#ECy : End Char Y-coordinate, lineNo: Line Number, wordNo: Word Number, 
@@ -245,41 +262,7 @@ cv2.imwrite('zz7_chars_img.jpg',img)
 #cv2.imwrite('chandra_chars_img.jpg',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-'''
-'''
-for i in (1,10):
-	char = List_Char_Details_Unrefined[i]
-'''
-
-
-
-List_Char_Details_Refined = extractBoundaryRefine.refineChar(img, thresh_No_DE, List_Char_Details_Unrefined)
-#BCx: Begin Char X-coordinate, BCy: Begin Char Y-coordinate, ECx : End Char X-coordinate, 
-#ECy : End Char Y-coordinate, lineNo: Line Number, wordNo: Word Number, 
-#region: Top-Mid-Bot 1-2-3, charNo: Char Number, hw: header width(0 for Top-Bot)
-
-
-
-'''
-fileCharBoundary = open('CharBoundary.txt','w')
-
-for char in List_Char_Details:
-	#BCx: Begin Char X-coordinate, BCy: Begin Char Y-coordinate, ECx : End Char X-coordinate, 
-	#ECy : End Char Y-coordinate, lineNo: Line Number, wordNo: Word Number, charNo: Char Number, hw: header_width
-	cv2.rectangle( img, (char['BCx'], char['BCy']), (char['ECx'], char['ECy']),(255,0,0),1)
-	fileCharBoundary.write("(%d, %d)  (%d, %d)  lineNo: %d  wordNo: %d  charNo: %d\n" % (char['BCx'], char['BCy'], char['ECx'], char['ECy'], char['lineNo'], char['wordNo'], char['charNo']))
-
-fileCharBoundary.close()
-
-# Finally show the image
-cv2.imshow('img',img)
-cv2.imwrite('zz1_chars_refine_img.jpg',img)
-#cv2.imshow('res',thresh_color)
-#cv2.imwrite('zz1_chars_thresh_color.jpg',thresh_color)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
-'''
-
+#'''
 
 
 #******************************Character Width-Height Calculation*************************************
@@ -297,15 +280,14 @@ cv2.destroyAllWindows()
 
 
 
+
 #*********************************Header Line removal****************************************
 
-for char in List_Char_Details_Refined:
-	if(char['region']==2):
-		char['BCy'] += char['hw']
-
+postprocess.removeHeaderLine(List_Char_Details_Final)
 
 
 #**********************************************Save each character***************************************************
+'''
 import os.path
 directory = 'characters'	
 for char in List_Char_Details_Refined:
@@ -314,43 +296,15 @@ for char in List_Char_Details_Refined:
 	name = 'line' + str(char['lineNo']) + '_word' + str(char['wordNo']) + '_reg' + str(char['region']) + '_char' + str(char['charNo']) + '.jpg'
 
 	cv2.imwrite(os.path.join(directory,name),crop_img)
-
-	
-
-#********************************************Filter based on character width*****************************************
+'''	
 
 
-'''
-width_limit_percent = 2
-# 2: filter those greater than 200% of mean_width
-List_Char_Details_FCW = extractChars.FilterCharWidth(thresh_No_DE, List_Char_Details_WH, mean_width, width_limit_percent)
-#with FCW (Filter on Character Width)
+#***************************Downsample and save each image in row-major form*****************************
 
+resized_Width = 15
+resized_Height = 15
 
-fileCharBoundary = open('CharBoundarySplit.txt','w')
-
-for char in List_Char_Details_FCW:
-	#BCx: Begin Char X-coordinate, BCy: Begin Char Y-coordinate, ECx : End Char X-coordinate, 
-	#ECy : End Char Y-coordinate, lineNo: Line Number, wordNo: Word Number, charNo: Char Number,
-	#width: Char Width, height: Char Height, hw: header_width, 
-	#splitNo: if not split then -1, else the split no in joint char
-
-	fileCharBoundary.write("(%d, %d)  (%d, %d)  lineNo: %d  wordNo: %d  charNo: %d\n" % (char['BCx'], char['BCy'], char['ECx'], char['ECy'], char['lineNo'], char['wordNo'], char['charNo']))
-	if(char['splitNo'] != -1):
-		cv2.rectangle( img, (char['BCx'], char['BCy']), (char['ECx'], char['ECy']),(0,0,255),1)
-	#else:
-		#cv2.rectangle( img, (char['BCx'], char['BCy']), (char['ECx'], char['ECy']),(255,0,0),1)
-		
-
-fileCharBoundary.close()
-
-# Finally show the image
-cv2.imshow('img',img)
-cv2.imwrite('zz1_chars_split_img.jpg',img)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
-'''
-
+postprocess.downsample(img, List_Char_Details_Final, resized_Width, resized_Height)
 
 
 #***************************************************************************************************************************
